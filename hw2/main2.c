@@ -7,7 +7,7 @@ int main()
     FILE *inputFile, *outputFile;
     char character;
     
-     inputFile = fopen("main.c", "r");
+     inputFile = fopen("main2.c", "r");
      
     outputFile = fopen("main2.txt", "w");
     
